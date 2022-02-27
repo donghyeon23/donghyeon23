@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **gjbmt123@gmail.com**
 
-- ⚡ Fun fact **I think I am little funny**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://nodejs.org/en/about/resources/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="nodejs" width="40" height="40"/> </a>
