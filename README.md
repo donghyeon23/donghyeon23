@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=donghyeon23&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-![mongodb (1)](https://user-images.githubusercontent.com/92674373/156206578-d3980201-aaae-4544-be96-96a4c3e19704.svg)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyeon23&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
