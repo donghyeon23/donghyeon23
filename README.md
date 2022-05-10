@@ -21,22 +21,40 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate backend developer from Korea</h3>
 <br>
 
-- 🌱 I’m currently learning **Node.JS**
+<h3 align="center">🔧 Tech Stack 🔧</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&fontColor=ffffff"/></a> &nbsp
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
 
-- 📝 I regularly write articles on [https://donghyeon23.tistory.com](https://donghyeon23.tistory.com/)
+<p align="center">
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/></a> &nbsp
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a> &nbsp
 
+</br>
+</br>
+</br>
+
+<h3 align="center">👩🏽‍💻 Now, Interested In 👩🏽‍💻</h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a> &nbsp
+
+</br>
+</br>
+</br>
+
+<h3 align="center">🐣 About me 🐣</h3>
+</br>
+
+- 📝 I regularly write articles on <a href="https://island-mitten-6bf.notion.site/donghyeon-s-page-703dfa2d3081479daa92c762737ef8c8"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a> &nbsp
 - 📫 How to reach me **gjbmt123@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://nodejs.org/en/about/resources/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/kr" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/92674373/156206578-d3980201-aaae-4544-be96-96a4c3e19704.svg" alt="Mongodb" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
