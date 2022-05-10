@@ -53,8 +53,9 @@ Here are some ideas to get you started:
 <h3 align="center">🐣 About me 🐣</h3>
 </br>
 
-- 📝 I regularly write articles on <a href="https://island-mitten-6bf.notion.site/donghyeon-s-page-703dfa2d3081479daa92c762737ef8c8"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a> &nbsp
-- 📫 How to reach me **gjbmt123@gmail.com**
+<p align="center">
+<h3 align="center">📝 I regularly write articles on <a href="https://island-mitten-6bf.notion.site/donghyeon-s-page-703dfa2d3081479daa92c762737ef8c8"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a></h3>
+<h3 align="center">📫 How to reach me **gjbmt123@gmail.com**</h3>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
